@@ -1,8 +1,20 @@
 using Microsoft.EntityFrameworkCore;
 using TaskManagementAPI.Data;
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("Allowreactapp",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:5173")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
 
 // Add services to the container.
 builder.Services.AddDbContext<ApiDbContext>(options =>
@@ -22,6 +34,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options => options.SwaggerEndpoint("/openapi/v1.json", "Swagger"));
 
 }
+
+app.UseCors("Allowreactapp");
 
 app.UseHttpsRedirection();
 
