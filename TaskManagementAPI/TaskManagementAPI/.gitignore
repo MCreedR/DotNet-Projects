@@ -1,0 +1,10 @@
+# Visual Studio temporaries
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# Secrets and configuration
+appsettings.Development.json
