@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\taskmanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\taskmanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|d:\\it_practice\\dotnet-projects\\taskmanagementapi\\taskmanagementapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AFDF02E-CF18-4459-D717-8AF5E39FEEB0}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,48 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TaskManagementAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\appsettings.Development.json*",
-              "RelativeToolTip": "TaskManagementAPI\\appsettings.Development.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T15:31:51.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskManagementAPI",
-              "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\TaskManagementAPI.csproj",
-              "RelativeDocumentMoniker": "TaskManagementAPI\\TaskManagementAPI.csproj",
-              "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\TaskManagementAPI.csproj",
-              "RelativeToolTip": "TaskManagementAPI\\TaskManagementAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T21:48:47.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ToDoItemsController.cs",
               "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\ToDoItemsController.cs",
               "RelativeDocumentMoniker": "TaskManagementAPI\\Controllers\\ToDoItemsController.cs",
               "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\ToDoItemsController.cs",
               "RelativeToolTip": "TaskManagementAPI\\Controllers\\ToDoItemsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAewFEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T21:35:44.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Data\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "TaskManagementAPI\\Data\\ApiDbContext.cs",
@@ -87,7 +51,8 @@
               "RelativeToolTip": "TaskManagementAPI\\Data\\ApiDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T21:10:08.582Z"
+              "WhenOpened": "2026-01-16T21:10:08.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,9 +60,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagementAPI\\Program.cs",
-              "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Program.cs",
-              "RelativeToolTip": "TaskManagementAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Program.cs*",
+              "RelativeToolTip": "TaskManagementAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T21:05:32.033Z",
               "EditorCaption": ""
@@ -105,19 +70,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManagementAPI\\appsettings.json",
-              "ToolTip": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json*",
-              "RelativeToolTip": "TaskManagementAPI\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T20:48:10.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ToDoItem.cs",
               "DocumentMoniker": "D:\\IT_Practice\\DotNet-Projects\\TaskManagementAPI\\TaskManagementAPI\\Models\\ToDoItem.cs",
               "RelativeDocumentMoniker": "TaskManagementAPI\\Models\\ToDoItem.cs",
@@ -125,7 +77,8 @@
               "RelativeToolTip": "TaskManagementAPI\\Models\\ToDoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T20:42:01.802Z"
+              "WhenOpened": "2026-01-16T20:42:01.802Z",
+              "EditorCaption": ""
             }
           ]
         }
