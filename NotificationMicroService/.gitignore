@@ -1,0 +1,12 @@
+# Build and binary outputs
+# these folders contain files generated during compilation
+bin/
+obj/
+
+# Visual Studio local settings and user-specific files
+.vs/
+*.user
+*.suo
+
+# Configuration files that may contain sensitive data
+appsettings.Development.json
