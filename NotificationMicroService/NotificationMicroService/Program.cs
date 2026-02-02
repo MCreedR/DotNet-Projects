@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NotificationMicroService.Data;
+using NotificationMicroService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,12 +10,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddControllers();
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
+builder.Services.AddScoped<NotificationService>();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.AddSwaggerGen();
+
 
 
 var app = builder.Build();
@@ -29,6 +31,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/openapi/v1.json", "Swagger");
+
     });
 }
  
